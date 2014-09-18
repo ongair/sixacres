@@ -403,6 +403,10 @@ h1, h2, h3
 		margin: 0 0 30px 0;
 	}
 
+	#footercont p {
+		font-size: 0.9rem;
+	}
+
 	#footercont #socialmedia ul li
 	{
 		display: inline-block;
